@@ -35,10 +35,6 @@ Project Ideas:
 
 Use either QRNG or dAPI price feeds in your dApp to qualify as an API3 runner-up.
 
-## Questions? Support from API3 developers
-
-Looking for help? Head to the API3 Discord and drop questions in the #dev-support channel: https://discord.gg/api3dao -- Or look out for API3 team members at ETHIstanbul. 
-
 ## Introduction to API3
 
 First-party oracles provide a more secure and reliable oracle, whilst enabling dApps to verify the data source. API3's first-party oracles are powered by Airnode, a serverless oracle node that enables API providers to run their own oracle nodes.
@@ -74,7 +70,7 @@ Once a dAPI has been integrated a smart contract can access a range of data feed
 
 - [Check out the API3 Market](https://market.api3.org/dapis)
 
-# Learning resources 
+## Learning resources 
 
 More reading on API3:
 
@@ -83,14 +79,14 @@ More reading on API3:
 - [dAPI Reader example](https://github.com/api3dao/data-feed-reader-example)
 - [Activate self-funded dAPI](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
 
-Tutorials: 
+## Tutorials: 
 
 - [Sports Betting tools](https://github.com/api3-ecosystem/getting-started)
 - [Making on-chain Payments and mint an NFT receipt using dAPIs](https://medium.com/@vanshwassan/making-an-on-chain-payment-and-minting-an-nft-receipt-with-permissionless-price-oracles-a7339f7b8c3e)
 - [zkSync Paymasters with dAPIs](https://era.zksync.io/docs/dev/tutorials/api3-usd-paymaster-tutorial.html)
 - [Building a roulette table with QRNG](https://docs.api3.org/guides/qrng/roulette-guide/)
 
-### References For ETHIstanbul Hackathon
+## References For ETHIstanbul Hackathon
 
 Links to different repos for examples and help.
 
@@ -117,7 +113,7 @@ https://github.com/api3-ecosystem/offchain-music
 
 - Or get started now with the [API3 Market](https://market.api3.org/).
 
-# Community link
+## Community link
 
 Looking for help or just want to hang with industry-leading developers? Head to the API3 Discord and drop questions in the #dev-support channel: https://discord.gg/api3dao
 
@@ -131,7 +127,7 @@ All hackathon participants who are competing for the API3 bounties are required 
 - The project should be open-source with a public Github repository with the codebase. 
 - The repo must be licenced with one of the following open source licences: GPL-3.0, or MIT.
 
-# Judging criteria
+## Judging criteria
 
 Participants may submit a maximum of 1 project by the hackathon deadline. After submission, projects will be judged by the following criteria:
 
@@ -145,7 +141,11 @@ Participants may submit a maximum of 1 project by the hackathon deadline. After 
 
 - **BONUS** - Adding functionality to the Airnode protocol that will improve performance, interoperability, or further develop use cases.
 
-# Leave your feedback 
+## Questions? Support from API3 developers
+
+Looking for help? Head to the API3 Discord and drop questions in the #dev-support channel: https://discord.gg/api3dao -- Or look out for API3 team members at ETHIstanbul. 
+
+## Leave your feedback 
 
 API3 is offering $20 for hackers who provide feedback on their experience of API3's documentation. 
 
