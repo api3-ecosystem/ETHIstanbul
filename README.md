@@ -46,9 +46,9 @@ There are three key elements within API3's Oracle Stack:
 
 dAPIs provide smart contracts with access to continuously updated feeds of market data by oracles hosted by highly reputable financial data providers. API3's price feeds can be accessed in two methods:
 
-- Self-funded dAPIs see users add collateral for oracle operation and are permissionless. They provide a data feed source with off-chain aggregation as a single source.
+Self-funded dAPIs see users add collateral for oracle operation and are permissionless. They provide a data feed source with off-chain aggregation as a single source.
 
-- Managed dAPIs are powered by multiple first-party oracles with native-chain aggregation offering a verifiable, decentralized oracle solution.
+Managed dAPIs are powered by multiple first-party oracles with native-chain aggregation offering a verifiable, decentralized oracle solution.
 Once a dAPI has been integrated a smart contract can access a range of data feed services through the [API3 Market](https://market.api3.org/dapis).
 
 - [Learn how to get started with dAPIs](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
@@ -76,7 +76,9 @@ With ChainAPI your smart contract can connect almost any API, whether open or au
 
 ## Tutorials: 
 
-- [Sports Betting tools](https://github.com/api3-ecosystem/getting-started)
+Here's a list of all the demo projects that use QRNG, dAPIs and Airnode to get you started:
+
+- [on-chain sports betting](https://github.com/api3-ecosystem/getting-started)
 - [Making on-chain Payments and mint an NFT receipt using dAPIs](https://medium.com/@vanshwassan/making-an-on-chain-payment-and-minting-an-nft-receipt-with-permissionless-price-oracles-a7339f7b8c3e)
 - [zkSync Paymasters with dAPIs](https://era.zksync.io/docs/dev/tutorials/api3-usd-paymaster-tutorial.html)
 - [Building a roulette table with QRNG](https://docs.api3.org/guides/qrng/roulette-guide/)
