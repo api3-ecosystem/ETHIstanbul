@@ -42,21 +42,6 @@ You can [learn more about first-party oracles](https://docs.api3.org/guides/airn
 
 There are three key elements within API3's Oracle Stack:
 
-### ChainAPI: Airnode integration tool
-
-With ChainAPI your smart contract can connect almost any API, whether open or authenticated, by using API3's first-party oracle node, Airnode. ChainAPI enables you to integrate and deploy the open-source Airnode with an intuitive step-by-step integration and deployment process.
-
-- [Learn how to call an Airnode](https://docs.api3.org/guides/airnode/calling-an-airnode/)
-
-- [Check out ChainAPI](https://chainapi.com/)
-
-### API3 QRNG
-
-API3 QRNG is a public utility API3 provides on behalf of well-established, prestigious organizations serving Quantum random number generation (QRNG). QRNG is a method of random number generation based on quantum phenomena and considered within the scientific community to be the most secure method of random number generation.
-It operates as a public good, where users simply add gas to a wallet correlated to the oracle node, enabling the oracle node to return a random number when requested by a contract.
-
-- [Learn how to get started with QRNG](https://docs.api3.org/guides/qrng/)
-
 ### Data feeds: dAPIs
 
 dAPIs provide smart contracts with access to continuously updated feeds of market data by oracles hosted by highly reputable financial data providers. API3's price feeds can be accessed in two methods:
@@ -66,18 +51,28 @@ dAPIs provide smart contracts with access to continuously updated feeds of marke
 - Managed dAPIs are powered by multiple first-party oracles with native-chain aggregation offering a verifiable, decentralized oracle solution.
 Once a dAPI has been integrated a smart contract can access a range of data feed services through the [API3 Market](https://market.api3.org/dapis).
 
-- [Learn how to get started with dAPIs](https://docs.api3.org/guides/dapis/subscribing-managed-dapis/)
+- [Learn how to get started with dAPIs](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
+
+- [Learn how to use dAPIs](https://docs.api3.org/guides/dapis/read-a-dapi/)
 
 - [Check out the API3 Market](https://market.api3.org/dapis)
 
-## Learning resources 
+- [Check out dAPI Reader example Github repo](https://github.com/api3dao/data-feed-reader-example)
 
-More reading on API3:
+### API3 QRNG
 
-- [Using dAPIs](https://docs.api3.org/guides/dapis/read-a-dapi/)
-- [Getting Started with QRNG](https://docs.api3.org/guides/qrng/)
-- [dAPI Reader example](https://github.com/api3dao/data-feed-reader-example)
-- [Activate self-funded dAPI](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
+API3 QRNG is a public utility API3 provides on behalf of well-established, prestigious organizations serving Quantum random number generation (QRNG). QRNG is a method of random number generation based on quantum phenomena and considered within the scientific community to be the most secure method of random number generation.
+It operates as a public good, where users simply add gas to a wallet correlated to the oracle node, enabling the oracle node to return a random number when requested by a contract.
+
+- [Learn how to get started with QRNG](https://docs.api3.org/guides/qrng/)
+
+### ChainAPI: Airnode Integration Tool
+
+With ChainAPI your smart contract can connect almost any API, whether open or authenticated, by using API3's first-party oracle node, Airnode. ChainAPI enables you to integrate and deploy the open-source Airnode with an intuitive step-by-step integration and deployment process.
+
+- [Learn how to call an Airnode](https://docs.api3.org/guides/airnode/calling-an-airnode/)
+
+- [Check out ChainAPI](https://chainapi.com/)
 
 ## Tutorials: 
 
