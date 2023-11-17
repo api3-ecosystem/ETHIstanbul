@@ -51,7 +51,7 @@ Self-funded dAPIs see users add collateral for oracle operation and are permissi
 Managed dAPIs are powered by multiple first-party oracles with native-chain aggregation offering a verifiable, decentralized oracle solution.
 Once a dAPI has been integrated a smart contract can access a range of data feed services through the [API3 Market](https://market.api3.org/dapis?utm_source=Eth+Istanbul&utm_medium=Github&utm_campaign=Eth+Istanbul).
 
-- [Learn how to get started with dAPIs](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/?utm_source=Eth+Istanbul&utm_medium=Github&utm_campaign=Eth+Istanbul)
+- [Learn how to get started with dAPIs](https://docs.api3.org/guides/dapis/?utm_source=Eth+Istanbul&utm_medium=Github&utm_campaign=Eth+Istanbul)
 
 - [Learn how to use dAPIs](https://docs.api3.org/guides/dapis/read-a-dapi/?utm_source=Eth+Istanbul&utm_medium=Github&utm_campaign=Eth+Istanbul)
 
@@ -78,7 +78,7 @@ With ChainAPI your smart contract can connect almost any API, whether open or au
 
 Here's a list of all the demo projects that use QRNG, dAPIs and Airnode to get you started:
 
-- [on-chain sports betting](https://github.com/api3-ecosystem/getting-started?utm_source=Eth+Istanbul&utm_medium=Github&utm_campaign=Eth+Istanbul)
+- [On-chain sports betting](https://github.com/api3-ecosystem/sportmonks-example?utm_source=Eth+Istanbul&utm_medium=Github&utm_campaign=Eth+Istanbul)
 - [Making on-chain Payments and mint an NFT receipt using dAPIs](https://medium.com/@vanshwassan/making-an-on-chain-payment-and-minting-an-nft-receipt-with-permissionless-price-oracles-a7339f7b8c3e?utm_source=Eth+Istanbul&utm_medium=Github&utm_campaign=Eth+Istanbul)
 - [zkSync Paymasters with dAPIs](https://era.zksync.io/docs/dev/tutorials/api3-usd-paymaster-tutorial.html?utm_source=Eth+Istanbul&utm_medium=Github&utm_campaign=Eth+Istanbul)
 - [Building a roulette table with QRNG](https://docs.api3.org/guides/qrng/roulette-guide/?utm_source=Github&utm_medium=Github&utm_campaign=Eth+Istanbul&utm_id=Eth+Istanbul)
