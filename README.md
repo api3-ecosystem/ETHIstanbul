@@ -145,5 +145,4 @@ Looking for help? Head to the API3 Discord and drop questions in the #dev-suppor
 ## Leave your feedback 
 
 API3 is offering $20 for hackers who provide feedback on their experience of API3's documentation. 
-
-![Feedback graphic](./Feedback.png)
+[Click here to leave your feedback](https://t.maze.co/201311436) 
